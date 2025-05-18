@@ -1,5 +1,10 @@
 # AZEcvvc
 Recording lists for Azerbaijani language for UTAU
+
+## Pronunciation Guide
+
+### Vowels
+
 | Recording phoneme (X-SAMPA) | IPA | Pronunciation | Example word |
 |---------------------------|-----|---------------|--------------|
 | a | /a/ | like 'a' in father | ana |
@@ -11,6 +16,11 @@ Recording lists for Azerbaijani language for UTAU
 | y | /y/ | like 'u' in French 'tu' | üz |
 | 9 | /ø/ | like 'eu' in French 'deux' | göz |
 | M | /ɯ/ | unrounded close back vowel | qız |
+
+### Consonants
+
+| Recording phoneme (X-SAMPA) | IPA | Pronunciation | Example word |
+|---------------------------|-----|---------------|--------------|
 | k | /k/ | like 'k' in kite | kitab |
 | t | /t/ | like 't' in top | tuş |
 | p | /p/ | like 'p' in pot | pul |
@@ -30,6 +40,10 @@ Recording lists for Azerbaijani language for UTAU
 | l | /l/ | like 'l' in lamp | lal |
 | j | /j/ | like 'y' in yes | yay |
 | 4 | /r/ | rolled 'r' | arı |
+| v | /v/ | like 'v' in very | var |
+| h | /h/ | like 'h' in house | hava |
+| x | /x/ | like 'ch' in Scottish loch | xalq |
+| f | /f/ | like 'f' in fish | fil |
 | v | /v/ | like 'v' in very | var |
 | h | /h/ | like 'h' in house | hava |
 | x | /x/ | like 'ch' in Scottish loch | xalq |
