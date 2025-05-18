@@ -1,36 +1,34 @@
 # AZEcvvc
 Recording lists for Azerbaijani language for UTAU
-| Azerbaijani Letter | IPA Symbol | Example Word | Pronunciation |
-|-------------------|------------|--------------|---------------|
-| A, a              | /ɑ/        | ana          | like 'a' in father |
-| B, b              | /b/        | bal          | like 'b' in boy |
-| C, c              | /dʒ/       | can          | like 'j' in jam |
-| Ç, ç              | /tʃ/       | çay          | like 'ch' in chair |
-| D, d              | /d/        | dil          | like 'd' in day |
-| E, e              | /e/        | ev           | like 'e' in get |
-| Ə, ə              | /æ/        | əl           | like 'a' in cat |
-| F, f              | /f/        | fil          | like 'f' in fish |
-| G, g              | /ɡ/        | göl          | like 'g' in go |
-| Ğ, ğ              | /ɣ/        | dağ          | voiced velar fricative |
-| H, h              | /h/        | hava         | like 'h' in house |
-| X, x              | /x/        | xalq         | like 'ch' in Scottish loch |
-| I, ı              | /ɯ/        | qız          | unrounded close back vowel |
-| İ, i              | /i/        | iki          | like 'ee' in see |
-| J, j              | /ʒ/        | jurnal       | like 's' in pleasure |
-| K, k              | /k/        | kitab        | like 'k' in kite |
-| Q, q              | /g/        | qar          | uvular version of 'g' |
-| L, l              | /l/        | lal          | like 'l' in lamp |
-| M, m              | /m/        | mən          | like 'm' in man |
-| N, n              | /n/        | nəm          | like 'n' in no |
-| O, o              | /o/        | ox           | like 'o' in more |
-| Ö, ö              | /ø/        | göz          | like 'u' in French 'tu' |
-| P, p              | /p/        | pul          | like 'p' in pot |
-| R, r              | /r/        | arı          | rolled 'r' |
-| S, s              | /s/        | su           | like 's' in see |
-| Ş, ş              | /ʃ/        | şəhər        | like 'sh' in she |
-| T, t              | /t/        | tuş          | like 't' in top |
-| U, u              | /u/        | ulduz        | like 'oo' in moon |
-| Ü, ü              | /y/        | üz           | like 'u' in French 'tu' |
-| V, v              | /v/        | var          | like 'v' in very |
-| Y, y              | /j/        | yay          | like 'y' in yes |
-| Z, z              | /z/        | zaman        | like 'z' in zoo |
+| a | /a/ | like 'a' in father | ana |
+| i | /i/ | like 'ee' in see | iki |
+| u | /u/ | like 'oo' in moon | ulduz |
+| e | /e/ | like 'e' in get | ev |
+| o | /o/ | like 'o' in more | ox |
+| { | /æ/ | like 'a' in cat | əl |
+| y | /y/ | like 'u' in French 'tu' | üz |
+| 9 | /ø/ | like 'eu' in French 'deux' | göz |
+| M | /ɯ/ | unrounded close back vowel | qız |
+| k | /k/ | like 'k' in kite | kitab |
+| t | /t/ | like 't' in top | tuş |
+| p | /p/ | like 'p' in pot | pul |
+| b | /b/ | like 'b' in boy | bal |
+| s | /s/ | like 's' in see | su |
+| S | /ʃ/ | like 'sh' in she | şəhər |
+| z | /z/ | like 'z' in zoo | zaman |
+| Z | /ʒ/ | like 's' in pleasure | jurnal |
+| dZ | /dʒ/ | like 'j' in jam | can |
+| tS | /tʃ/ | like 'ch' in chair | çay |
+| d | /d/ | like 'd' in day | dil |
+| q | /g/ | uvular version of 'g' | qar |
+| g | /ɡj/ | palatalized 'g' | gəl |
+| n | /n/ | like 'n' in no | nəm |
+| N | /ŋ/ | like 'ng' in sing | - |
+| m | /m/ | like 'm' in man | mən |
+| l | /l/ | like 'l' in lamp | lal |
+| j | /j/ | like 'y' in yes | yay |
+| 4 | /r/ | rolled 'r' | arı |
+| v | /v/ | like 'v' in very | var |
+| h | /h/ | like 'h' in house | hava |
+| x | /x/ | like 'ch' in Scottish loch | xalq |
+| f | /f/ | like 'f' in fish | fil |
