@@ -1,6 +1,15 @@
 # AZEcvvc
 Recording lists for Azerbaijani language for UTAU
 
+## Available Reclists
+
+| Reclist Name | Recording Time | Number of Recordings | Description |
+|--------------|----------------|----------------------|-------------|
+| 2-mora core | 40 minutes | 217 | More natural. Has VC- and -CV combinations. Recommended for most users. |
+| 9-mora core | 5 minutes | 25 | Faster to record. Only CV, VC, -C, C- combinations. Recommended for those who want to record quickly. |
+| VV extras | 1 minute | 8 | VV combinations. Recommended add-on for better vowel transitions. |
+| CC extras | 10 minutes | 25 | CC combinations. Recommended add-on for better consonant blending. |
+
 ## Pronunciation Guide
 
 ### Vowels
@@ -34,6 +43,7 @@ Recording lists for Azerbaijani language for UTAU
 | d | /d/ | like 'd' in day | dil |
 | q | /g/ | uvular version of 'g' | qar |
 | g | /ɡj/ | palatalized 'g' | gəl |
+| G | /ɣ/ | voiced velar fricative | dağ |
 | n | /n/ | like 'n' in no | nəm |
 | N | /ŋ/ | like 'ng' in sing | - |
 | m | /m/ | like 'm' in man | mən |
