@@ -1,0 +1,52 @@
+{
+    "pluginName": "cvvc-oto-gen",
+    "pluginVersion": 10,
+    "params": {
+        "map": {
+            "repeat": {
+                "type": "integer",
+                "value": 1
+            },
+            "prefix": {
+                "type": "string",
+                "value": ""
+            },
+            "separator": {
+                "type": "string",
+                "value": "_"
+            },
+            "consLength": {
+                "type": "float",
+                "value": 50.0
+            },
+            "ovlVC": {
+                "type": "float",
+                "value": 60.0
+            },
+            "useHeadCV": {
+                "type": "boolean",
+                "value": false
+            },
+            "repeatC": {
+                "type": "integer",
+                "value": 1
+            },
+            "order": {
+                "type": "enum",
+                "value": "CVs -> VCs; across sample"
+            },
+            "appendTags": {
+                "type": "boolean",
+                "value": false
+            },
+            "vowelMap": {
+                "type": "string",
+                "value": "a=a,pa,ba,ta,va,sa,ka,da,fa,ha,xa,za,Za,la,na,ma,4a,ja,Sa,tSa,dZa,ga,qa,Ga,Na\ni=i,pi,bi,ti,vi,si,ki,di,fi,hi,xi,zi,Zi,li,ni,mi,4i,ji,Si,tSi,dZi,gi,qi,Gi,Ni\nu=u,pu,bu,tu,vu,su,ku,du,fu,hu,xu,zu,Zu,lu,nu,mu,4u,ju,Su,tSu,dZu,gu,qu,Gu,Nu\ne=e,pe,be,te,ve,se,ke,de,fe,he,xe,ze,Ze,le,ne,me,4e,je,Se,tSe,dZe,ge,qe,Ge,Ne\no=o,po,bo,to,vo,so,ko,do,fo,ho,xo,zo,Zo,lo,no,mo,4o,jo,So,tSo,dZo,go,qo,Go,No\n{={,p{,b{,t{,v{,s{,k{,d{,f{,h{,x{,z{,Z{,l{,n{,m{,4{,j{,S{,tS{,dZ{,g{,q{,G{,N{\ny=y,py,by,ty,vy,sy,ky,dy,fy,hy,xy,zy,Zy,ly,ny,my,4y,jy,Sy,tSy,dZy,gy,qy,Gy,Ny\n9=9,p9,b9,t9,v9,s9,k9,d9,f9,h9,x9,z9,Z9,l9,n9,m9,49,j9,S9,tS9,dZ9,g9,q9,G9,N9\nM=M,pM,bM,tM,vM,sM,kM,dM,fM,hM,xM,zM,ZM,lM,nM,mM,4M,jM,SM,tSM,dZM,gM,qM,GM,NM"
+            },
+            "consonantMap": {
+                "type": "string",
+                "value": "=a,i,u,e,o,{,y,9,M\ng=ga,gi,gu,ge,go,g{,gy,g9,gM\ntS=tSa,tSi,tSu,tSe,tSo,tS{,tSy,tS9,tSM\n4=4a,4i,4u,4e,4o,4{,4y,49,4M\nx=xa,xi,xu,xe,xo,x{,xy,x9,xM\nb=ba,bi,bu,be,bo,b{,by,b9,bM\nd=da,di,du,de,do,d{,dy,d9,dM\nq=qa,qi,qu,qe,qo,q{,qy,q9,qM\nf=fa,fi,fu,fe,fo,f{,fy,f9,fM\nh=ha,hi,hu,he,ho,h{,hy,h9,hM\nk=ka,ki,ku,ke,ko,k{,ky,k9,kM\nG=Ga,Gi,Gu,Ge,Go,G{,Gy,G9,GM\ndZ=dZa,dZi,dZu,dZe,dZo,dZ{,dZy,dZ9,dZM\nj=ja,ji,ju,je,jo,j{,jy,j9,jM\nm=ma,mi,mu,me,mo,m{,my,m9,mM\nn=na,ni,nu,ne,no,n{,ny,n9,nM\np=pa,pi,pu,pe,po,p{,py,p9,pM\ns=sa,si,su,se,so,s{,sy,s9,sM\nS=Sa,Si,Su,Se,So,S{,Sy,S9,SM\nt=ta,ti,tu,te,to,t{,ty,t9,tM\nv=va,vi,vu,ve,vo,v{,vy,v9,vM\nz=za,zi,zu,ze,zo,z{,zy,z9,zM\nZ=Za,Zi,Zu,Ze,Zo,Z{,Zy,Z9,ZM\nl=la,li,lu,le,lo,l{,ly,l9,lM\nN=Na,Ni,Nu,Ne,No,N{,Ny,N9,NM"
+            }
+        }
+    }
+}
