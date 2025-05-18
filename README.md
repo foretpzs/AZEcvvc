@@ -1,5 +1,7 @@
 # AZEcvvc
 Recording lists for Azerbaijani language for UTAU
+| Recording phoneme (X-SAMPA) | IPA | Pronunciation | Example word |
+|---------------------------|-----|---------------|--------------|
 | a | /a/ | like 'a' in father | ana |
 | i | /i/ | like 'ee' in see | iki |
 | u | /u/ | like 'oo' in moon | ulduz |
