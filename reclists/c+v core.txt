@@ -16,12 +16,12 @@ t_a_t
 d_a_d
 j_a_j
 s_a_s
-S_a_S
+s+_a_s+
 z_a_z
-Z_a_Z
+z+_a_z+
 v_a_v
-dZ_a_dZ
-tS_a_tS
+dz+_a_dz+
+ts+_a_ts+
 n_a_n
 m_a_m
 4_a_4
