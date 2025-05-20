@@ -9,7 +9,7 @@
             },
             "prefix": {
                 "type": "string",
-                "value": ""
+                "value": "-"
             },
             "separator": {
                 "type": "string",
