@@ -52,7 +52,7 @@ Recording lists for Azerbaijani language for UTAU
 | m | /m/ | like 'm' in man | mən |
 | l | /l/ | like 'l' in lamp | lal |
 | j | /j/ | like 'y' in yes | yay |
-| 4 | /r/ | rolled 'r' | arı |
+| 4 | /r/ | tapped 'r' | arı |
 | v | /v/ | like 'v' in very | var |
 | h | /h/ | like 'h' in house | hava |
 | x | /x/ | like 'ch' in Scottish loch | xalq |
