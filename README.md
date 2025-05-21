@@ -2,7 +2,7 @@
 Recording lists for Azerbaijani language for UTAU
 - The primary reclist structure uses CVVC format for compability and ease of use
 - All phonetic content is written using X-SAMPA
-
+- vLabeler template is not correctly working right now.
 ## Available Reclists
 
 | Reclist Name | Recording Time | Number of Recordings | Description |
