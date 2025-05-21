@@ -62,4 +62,4 @@ Recording lists for Azerbaijani language for UTAU
 | x | /x/ | like 'ch' in Scottish loch | xalq |
 | f | /f/ | like 'f' in fish | fil |
 
-| Azerbaijani (Azərbaycan dili) is a Turkic language spoken primarily in Azerbaijan and parts of Iran, Russia, Georgia, and Turkey. |
+Azerbaijani (Azərbaycan dili) is a Turkic language spoken primarily in Azerbaijan and parts of Iran, Russia, Georgia, and Turkey.
