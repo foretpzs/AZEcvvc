@@ -12,6 +12,7 @@ Recording lists for Azerbaijani language for UTAU
 | VV extras | 4 minutes | 15 | VV combinations. Recommended add-on for better vowel transitions. |
 | CC extras | 2 minutes | 8 | CC combinations. Recommended add-on for better consonant blending. |
 | C+V (beta) | 3 minutes | 31 | Fastest and simpliest reclist type. Less natural. hard to use and tune. Not recommended for right now. |
+| VCV (beta) | 1-2 hours | 200+ | Longest reclist at this time. has -cv vcv vc-. takes lot of effort to record. Not recommended for right now. |
 
 ## Pronunciation Guide
 
