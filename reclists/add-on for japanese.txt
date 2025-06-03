@@ -8,10 +8,10 @@ k{_ky_k9_kM-k
 d{_dy_d9_dM-d
 f{_fy_f9_fM-f
 h{_hy_h9_hM-h
-x{_xy_x9_xM-x
+xa_xi_xu_xe_xo_x{_xy_x9_xM-x
 z{_zy_z9_zM-z
-z+{_z+y_z+9_z+M-z+
-l{_ly_l9_lM-l
+z+a_z+i_z+u_z+e_z+o_z+{_z+y_z+9_z+M-z+
+la_li_lu_le_lo_l{_ly_l9_lM-l
 n{_ny_n9_nM-n
 m{_my_m9_mM-m
 4{_4y_49_4M-4
@@ -21,5 +21,5 @@ ts+{_ts+y_ts+9_ts+M-ts+
 dz+{_dz+y_dz+9_dz+M
 g{_gy_g9_gM-g
 q{_qy_q9_qM-q
-g+{_g+y_g+9_g+M
+g+a_g+i_g+u_g+e_g+o_g+{_g+y_g+9_g+M
 n+{_n+y_n+9_n+M
