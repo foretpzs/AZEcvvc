@@ -1,13 +1,13 @@
 a_i_u_e_o_{_y_9_M
--ka_ka_k
--ki_ki_k
--ku_ku_k
--ke_ke_k
--ko_ko_k
--k{_k{_k
--ky_ky_k
--k9_k9_k
--kM_kM_k
+-ka_ka_k'
+-ki_ki_k'
+-ku_ku_k'
+-ke_ke_k'
+-ko_ko_k'
+-k{_k{_k'
+-ky_ky_k'
+-k9_k9_k'
+-kM_kM_k'
 
 -pa_pa_p
 -pi_pi_p
