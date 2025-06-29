@@ -35,7 +35,7 @@ Recording lists for Azerbaijani language for UTAU
 
 | Recording phoneme (X-SAMPA) | IPA | Pronunciation | Example word |
 |---------------------------|-----|---------------|--------------|
-| k | /k/ | like 'k' in kite | kitab |
+| k | /k/ | like 'k' in kite | kitab | (k' = palatalised k)
 | t | /t/ | like 't' in top | tuş |
 | p | /p/ | like 'p' in pot | pul |
 | b | /b/ | like 'b' in boy | bal |
