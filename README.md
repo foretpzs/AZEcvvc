@@ -9,11 +9,9 @@ Recording lists for Azerbaijani language for UTAU
 | Reclist Name | Recording Time | Number of Recordings | Description |
 |--------------|----------------|----------------------|-------------|
 | 2-mora core | 40 minutes | 207 | More natural. Has VC- and -CV combinations. Recommended for most users. |
-| 9-mora core | 5 minutes | 25 | Faster to record. Only CV, VC, -C, C- combinations. Recommended for those who want to record quickly. |
+| 9-mora core | 5 minutes | 24 | Faster to record. Only CV, VC, -C, C- combinations. Recommended for those who want to record quickly. |
 | VV extras | 4 minutes | 15 | VV combinations. Recommended add-on for better vowel transitions. |
 | CC extras | 2 minutes | 8 | CC combinations. Recommended add-on for better consonant blending. |
-| VCV (beta) | 1-2 hours | 200+ | Longest reclist at this time. has -cv vcv vc-. takes lot of effort to record. Not recommended for right now. |
-| Add-on for Japanese | 5 minutes | 25 | add-on for exisitng japanese cvvc voicebanks. Only CV, VC, C- combinations. Recommended for those who wants language compability. |
 
 ## Pronunciation Guide
 
