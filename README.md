@@ -26,42 +26,37 @@ Recording lists for Azerbaijani language for UTAU
 | u | /u/ | like 'oo' in moon | ulduz |
 | e | /e/ | like 'e' in get | ev |
 | o | /o/ | like 'o' in more | ox |
-| { | /æ/ | like 'a' in cat | əl |
+| ae | /æ/ | like 'a' in cat | əl |
 | y | /y/ | like 'u' in French 'tu' | üz |
-| 9 | /ø/ | like 'eu' in French 'deux' | göz |
+| oe | /ø/ | like 'eu' in French 'deux' | göz |
 | M | /ɯ/ | unrounded close back vowel | qız |
 
 ### Consonants
 
 | Recording phoneme (X-SAMPA) | IPA | Pronunciation | Example word |
 |---------------------------|-----|---------------|--------------|
-| k | /k/ | like 'k' in kite (k' palatalised k)| kitab | 
+| k | /k'/ | like 'k' in kite. palatal| kitab | 
 | t | /t/ | like 't' in top | tuş |
 | p | /p/ | like 'p' in pot | pul |
 | b | /b/ | like 'b' in boy | bal |
 | s | /s/ | like 's' in see | su |
-| S | /ʃ/ | like 'sh' in she | şəhər |
+| sh | /ʃ/ | like 'sh' in she | şəhər |
 | z | /z/ | like 'z' in zoo | zaman |
-| Z | /ʒ/ | like 's' in pleasure | jurnal |
-| dZ | /dʒ/ | like 'j' in jam | can |
-| tS | /tʃ/ | like 'ch' in chair | çay |
+| zh | /ʒ/ | like 's' in pleasure | jurnal |
+| c | /dʒ/ | like 'j' in jam | can |
+| ch | /tʃ/ | like 'ch' in chair | çay |
 | d | /d/ | like 'd' in day | dil |
-| q | /g/ | uvular version of 'g' | qar |
-| g | /ɡj/ | palatalized 'g' | gəl |
-| G | /ɣ/ | voiced velar fricative | dağ |
+| g | /g/ | uvular version of 'g' | qar |
+| gy | /ɡj/ | palatalized 'g' | gəl |
+| gh | /ɣ/ | voiced velar fricative | dağ |
 | n | /n/ | like 'n' in no | nəm |
 | N | /ŋ/ | like 'ng' in sing | - |
 | m | /m/ | like 'm' in man | mən |
 | l | /l/ | like 'l' in lamp | lal |
 | j | /j/ | like 'y' in yes | yay |
-| 4 | /r/ | tapped 'r' | arı |
+| r | /r/ | tapped 'r' | arı |
 | v | /v/ | like 'v' in very | var |
 | h | /h/ | like 'h' in house | hava |
 | x | /x/ | like 'ch' in Scottish loch | xalq |
-| f | /f/ | like 'f' in fish | fil |
-| v | /v/ | like 'v' in very | var |
-| h | /h/ | like 'h' in house | hava |
-| x | /x/ | like 'ch' in Scottish loch | xalq |
-| f | /f/ | like 'f' in fish | fil |
 
 Azerbaijani (Azərbaycan dili) is a Turkic language spoken primarily in Azerbaijan and parts of Iran, Russia, Georgia, and Turkey.
