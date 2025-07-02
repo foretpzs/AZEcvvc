@@ -29,7 +29,7 @@ Recording lists for Azerbaijani language for UTAU
 | ae | /æ/ | like 'a' in cat | əl |
 | y | /y/ | like 'u' in French 'tu' | üz |
 | oe | /ø/ | like 'eu' in French 'deux' | göz |
-| M | /ɯ/ | unrounded close back vowel | qız |
+| x | /ɯ/ | unrounded close back vowel | qız |
 
 ### Consonants
 
@@ -57,6 +57,6 @@ Recording lists for Azerbaijani language for UTAU
 | r | /r/ | tapped 'r' | arı |
 | v | /v/ | like 'v' in very | var |
 | h | /h/ | like 'h' in house | hava |
-| x | /x/ | like 'ch' in Scottish loch | xalq |
+| kh | /x/ | like 'ch' in Scottish loch | xalq |
 
 Azerbaijani (Azərbaycan dili) is a Turkic language spoken primarily in Azerbaijan and parts of Iran, Russia, Georgia, and Turkey.
