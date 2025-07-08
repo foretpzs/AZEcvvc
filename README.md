@@ -2,7 +2,7 @@
 Recording lists for Azerbaijani language for UTAU
 - The primary reclist structure uses CVVC format for compability and ease of use
 - All phonetic content is written using special phoneme format
-- vLabeler template is not correctly working right now.
+- You can use vLabeler template to get decent base oto.
 - You can use Italian cvvc phonemizer to handle simple cv vc transitions that use basic a i u e o
 ## Available Reclists
 
