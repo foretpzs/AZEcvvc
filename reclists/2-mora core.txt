@@ -1,5 +1,13 @@
 -a_i_u_e_o_ae_y_oe_x-
-
+-a
+-i
+-u
+-e
+-o
+-ae
+-y
+-oe
+-x
 -ka_ka_k
 -ki_ki_k
 -ku_ku_k
