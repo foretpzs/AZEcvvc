@@ -23,10 +23,6 @@
                 "type": "float",
                 "value": 60.0
             },
-            "useHeadCV": {
-                "type": "boolean",
-                "value": false
-            },
             "repeatC": {
                 "type": "integer",
                 "value": 1
@@ -41,11 +37,11 @@
             },
             "vowelMap": {
                 "type": "string",
-                "value": "a=a,pa,ba,ta,va,sa,ka,da,fa,ha,xa,za,Za,la,na,ma,4a,ja,Sa,tSa,dZa,ga,qa,Ga,Na\ni=i,pi,bi,ti,vi,si,ki,di,fi,hi,xi,zi,Zi,li,ni,mi,4i,ji,Si,tSi,dZi,gi,qi,Gi,Ni\nu=u,pu,bu,tu,vu,su,ku,du,fu,hu,xu,zu,Zu,lu,nu,mu,4u,ju,Su,tSu,dZu,gu,qu,Gu,Nu\ne=e,pe,be,te,ve,se,ke,de,fe,he,xe,ze,Ze,le,ne,me,4e,je,Se,tSe,dZe,ge,qe,Ge,Ne\no=o,po,bo,to,vo,so,ko,do,fo,ho,xo,zo,Zo,lo,no,mo,4o,jo,So,tSo,dZo,go,qo,Go,No\n{={,p{,b{,t{,v{,s{,k{,d{,f{,h{,x{,z{,Z{,l{,n{,m{,4{,j{,S{,tS{,dZ{,g{,q{,G{,N{\ny=y,py,by,ty,vy,sy,ky,dy,fy,hy,xy,zy,Zy,ly,ny,my,4y,jy,Sy,tSy,dZy,gy,qy,Gy,Ny\n9=9,p9,b9,t9,v9,s9,k9,d9,f9,h9,x9,z9,Z9,l9,n9,m9,49,j9,S9,tS9,dZ9,g9,q9,G9,N9\nM=M,pM,bM,tM,vM,sM,kM,dM,fM,hM,xM,zM,ZM,lM,nM,mM,4M,jM,SM,tSM,dZM,gM,qM,GM,NM"
+                "value": "a=a,pa,ba,ta,va,sa,ka,da,fa,ha,kha,za,zha,la,na,ma,ra,ja,sha,cha,ca,gya,ga,gha\ni=i,pi,bi,ti,vi,si,ki,di,fi,hi,khi,zi,zhi,li,ni,mi,ri,ji,shi,chi,ci,gyi,gi,ghi\nu=u,pu,bu,tu,vu,su,ku,du,fu,hu,khu,zu,zhu,lu,nu,mu,ru,ju,shu,chu,cu,gyu,gu,ghu\ne=e,pe,be,te,ve,se,ke,de,fe,he,khe,ze,zhe,le,ne,me,re,je,she,che,ce,gye,ge,ghe\no=o,po,bo,to,vo,so,ko,do,fo,ho,kho,zo,zho,lo,no,mo,ro,jo,sho,cho,co,gyo,go,gho\nae=ae,pae,bae,tae,vae,sae,kae,dae,fae,hae,khae,zae,zhae,lae,nae,mae,rae,jae,shae,chae,cae,gyae,gae,ghae\ny=y,py,by,ty,vy,sy,ky,dy,fy,hy,khy,zy,zhy,ly,ny,my,ry,jy,shy,chy,cy,gyy,gy,ghy\noe=oe,poe,boe,toe,voe,soe,koe,doe,foe,hoe,khoe,zoe,zhoe,loe,noe,moe,roe,joe,shoe,choe,coe,gyoe,goe,ghoe\nx=x,px,bx,tx,vx,sx,kx,dx,fx,hx,khx,zx,zhx,lx,nx,mx,rx,jx,shx,chx,cx,gyx,gx,ghx"
             },
             "consonantMap": {
                 "type": "string",
-                "value": "=a,i,u,e,o,{,y,9,M\ng=ga,gi,gu,ge,go,g{,gy,g9,gM\ntS=tSa,tSi,tSu,tSe,tSo,tS{,tSy,tS9,tSM\n4=4a,4i,4u,4e,4o,4{,4y,49,4M\nx=xa,xi,xu,xe,xo,x{,xy,x9,xM\nb=ba,bi,bu,be,bo,b{,by,b9,bM\nd=da,di,du,de,do,d{,dy,d9,dM\nq=qa,qi,qu,qe,qo,q{,qy,q9,qM\nf=fa,fi,fu,fe,fo,f{,fy,f9,fM\nh=ha,hi,hu,he,ho,h{,hy,h9,hM\nk=ka,ki,ku,ke,ko,k{,ky,k9,kM\nG=Ga,Gi,Gu,Ge,Go,G{,Gy,G9,GM\ndZ=dZa,dZi,dZu,dZe,dZo,dZ{,dZy,dZ9,dZM\nj=ja,ji,ju,je,jo,j{,jy,j9,jM\nm=ma,mi,mu,me,mo,m{,my,m9,mM\nn=na,ni,nu,ne,no,n{,ny,n9,nM\np=pa,pi,pu,pe,po,p{,py,p9,pM\ns=sa,si,su,se,so,s{,sy,s9,sM\nS=Sa,Si,Su,Se,So,S{,Sy,S9,SM\nt=ta,ti,tu,te,to,t{,ty,t9,tM\nv=va,vi,vu,ve,vo,v{,vy,v9,vM\nz=za,zi,zu,ze,zo,z{,zy,z9,zM\nZ=Za,Zi,Zu,Ze,Zo,Z{,Zy,Z9,ZM\nl=la,li,lu,le,lo,l{,ly,l9,lM\nN=Na,Ni,Nu,Ne,No,N{,Ny,N9,NM"
+                "value": "=a,i,u,e,o,ae,y,oe,x\ngy=gya,gyi,gyu,gye,gyo,gyae,gyy,gyoe,gyx\nch=cha,chi,chu,che,cho,chae,chy,choe,chx\nr=ra,ri,ru,re,ro,rae,ry,roe,rx\nkh=kha,khi,khu,khe,kho,khae,khy,khoe,khx\nb=ba,bi,bu,be,bo,bae,by,boe,bx\nd=da,di,du,de,do,dae,dy,doe,dx\ng=ga,gi,gu,ge,go,gae,gy,goe,gx\nf=fa,fi,fu,fe,fo,fae,fy,foe,fx\nh=ha,hi,hu,he,ho,hae,hy,hoe,hx\nk=ka,ki,ku,ke,ko,kae,ky,koe,kx\ngh=gha,ghi,ghu,ghe,gho,ghae,ghy,ghoe,ghx\nc=ca,ci,cu,ce,co,cae,cy,coe,cx\nj=ja,ji,ju,je,jo,jae,jy,joe,jx\nm=ma,mi,mu,me,mo,mae,my,moe,mx\nn=na,ni,nu,ne,no,nae,ny,noe,nx\np=pa,pi,pu,pe,po,pae,py,poe,px\ns=sa,si,su,se,so,sae,sy,soe,sx\nsh=sha,shi,shu,she,sho,shae,shy,shoe,shx\nt=ta,ti,tu,te,to,tae,ty,toe,tx\nv=va,vi,vu,ve,vo,vae,vy,voe,vx\nz=za,zi,zu,ze,zo,zae,zy,zoe,zx\nzh=zha,zhi,zhu,zhe,zho,zhae,zhy,zhoe,zhx\nl=la,li,lu,le,lo,lae,ly,loe,lx"
             }
         }
     }
